@@ -1,0 +1,7 @@
+{
+  "name": "Roamly",
+  "description": "Your AI-powered travel companion. Generate personalized itineraries, discover local gems with real-time maps, and visualize your next adventure.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
